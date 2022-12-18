@@ -3,6 +3,7 @@ const app = new express();
 
 const user = {
     firstName: 'DevOps',
+    middleName: 'Cloud',
     lastName: 'Engineer'
 }
 
